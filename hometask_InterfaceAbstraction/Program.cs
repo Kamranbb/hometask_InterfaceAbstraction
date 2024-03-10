@@ -9,7 +9,7 @@ namespace hometask_InterfaceAbstraction
         {
             Square square = new(3);
             //square.CalcArea();
-            Rectangular rectangular = new Rectangular(12,12);
+            Rectangular rectangular = new Rectangular(12,22);
             //rectangular.CalcArea();
 
 

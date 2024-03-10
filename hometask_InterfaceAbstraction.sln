@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hometask_InterfaceAbstraction", "hometask_InterfaceAbstraction\hometask_InterfaceAbstraction.csproj", "{52A3CEA9-C0E0-4798-859A-1DC05E0CF292}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTask2", "InterfaceTask2\InterfaceTask2.csproj", "{EB7681C9-32CF-46D9-BDE4-75D366402456}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{52A3CEA9-C0E0-4798-859A-1DC05E0CF292}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52A3CEA9-C0E0-4798-859A-1DC05E0CF292}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52A3CEA9-C0E0-4798-859A-1DC05E0CF292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7681C9-32CF-46D9-BDE4-75D366402456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7681C9-32CF-46D9-BDE4-75D366402456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7681C9-32CF-46D9-BDE4-75D366402456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7681C9-32CF-46D9-BDE4-75D366402456}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
