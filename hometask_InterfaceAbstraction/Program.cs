@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.Design;
-using System.Threading.Channels;
-
-namespace hometask_InterfaceAbstraction
+﻿namespace hometask_InterfaceAbstraction
 {
     internal class Program
     {

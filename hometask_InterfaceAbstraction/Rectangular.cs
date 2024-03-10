@@ -1,5 +1,6 @@
 ﻿
 
+
 namespace hometask_InterfaceAbstraction
 {
     internal class Rectangular:Figure
