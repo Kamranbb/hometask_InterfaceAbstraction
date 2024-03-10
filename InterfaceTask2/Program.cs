@@ -6,8 +6,9 @@ namespace InterfaceTask2
     {
         static void Main(string[] args)
         {
-            User user = new User("Kamran1998");
+            User user = new User("Kamran1998", "Kamran Baxsaliyev","kamran.baxsaliyev98@mail.ru");
             Console.WriteLine(user.Password);
+            user.ShowInfo();
 
         }
     }
