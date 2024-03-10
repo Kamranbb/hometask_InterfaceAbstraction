@@ -32,7 +32,8 @@ namespace hometask_InterfaceAbstraction
                     
                     }
                    
-                }else if (command == 3)
+                }
+                else if (command == 3)
                 {
                     break;
                 }

@@ -7,8 +7,8 @@ namespace InterfaceTask2.Models
 {
     internal class User : IAccount
     {
-        string _id; 
-        public string Id { get => "bakhshalievv"; }
+        int _id; 
+        public int Id { get => 145; }
         string _fullname;
         public string Fullname
         {
@@ -67,7 +67,7 @@ namespace InterfaceTask2.Models
 
         public void ShowInfo()
         {
-            Console.WriteLine($"Id : {Id} FullName: {Fullname} Email {Email}");
+            Console.WriteLine($"Id : {Id} > FullName: {Fullname} > Email {Email}");
         }
 
         public User(string password,string fullname,string email)
